@@ -4,18 +4,39 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-B   | Bekir Sadık Altunkaya | 475 
+10-B   | Emirhan Kanberoğlu | 360
+10-B   | Mehmet Emin Kıyımcı | 411
 
-#  (buraya proje başlığını yazınız)
+#  Kağıt Sıkışması(Paper Vice) IYPT Probleminin Çözümü
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+  Bu projede 2016 yılının IYPT rekabetinin 13. problemi olan Paper Vice (Türkçeye kâğıt mengenesi, sıkışması olarak çevrilebilir)’ın çözümü, yapılan çeşitli deneyler ve araştırmalar sonucunda aranacaktır.
+  
+  Bu problem, iç içe sıkıştırılan iki kitabın sayfalarının birbirini çok kuvvetli tutması üzerine kuruludur. Bizden istenen ise bu kitapların tutuş kuvvetlerinin neye bağlı olduğunu, hangi işlemler uygulanması ve hangi değerlerin değiştirilmesi durumunda kitapların tutuş kuvvetinin zayıflayacağı ya da tükeneceği ve kitapların birbirinden ayrılacağını bulmaktır.
+  
+  Yapılacak deneyde, iki adet kitap iç içe geçirilerek, karşılıklı taraflarından ayrılmaya çalışılacak, sarf edilen gayret ve kitaplarla ilgili değerler not edilecektir. Deney neticesinde kitapları tutan kuvveti etkileyen değerler bulunacaktır.
+  
+  Bu değerleri bulmak için ise;
+  
+-Kitapların büyüklüğü değiştirilerek deney tekrarlanacak,
+
+-Kitapların iç içe geçen, sıkışan sayfa sayıları değiştirilerek deney tekrarlanacak,
+
+-Kitapların sayfa kalınlıkları değiştirilerek deney tekrarlanacak,
+
+-Kitapların arasına talaş, ya da tuz dökülerek (sürtünme kuvvetinin artması amacıyla) deney tekrarlanacak,
+
+-Kitapların arasına kaydırıcı veya tam tersi sonuç gözlemlemek için yoğun ve tutucu maddeler dökülerek deney tekrarlanacaktır.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+1. H. Alarcon, T. Salez, C. Poulard, J.-F. Bloch, E. Raphael, K. Dalnoki-Veress, F. Restagno. The
+enigma of the two interleaved phonebooks (2015), arXiv:1508.03290 [physics.class-ph]
+
+2. MythBusters - Phone Book Friction (youtube.com, from Discovery, May 7, 2009),
+https://youtu.be/AX_lCOjLCTo
+
+3. Can the Frictional Force Between Two Interleaved Phone Books Lift A Car? [W/Video]
+(arborsci.com, 2013), http://www.arborsci.com/cool/can-friction-between-two-interleavedphone-books-lift-a-car
+
 
